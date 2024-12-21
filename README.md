@@ -29,6 +29,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 # PROGRAM :
+```
 HTML:
 <!DOCTYPE html>
 <html lang="en">
@@ -128,13 +129,16 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('app.urls')),  # Include the app's URLs
 ]
-
+```
 # SERVER SIDE PROCESSING:
 ![Screenshot 2024-12-13 101705](https://github.com/user-attachments/assets/6ae260ff-5a9c-46d4-94d2-398e77beb882)
 
 
-# HOMEPAGE:
+# OUTPUT:
 ![Screenshot 2024-12-13 101823](https://github.com/user-attachments/assets/4192fc00-c4ae-4e26-9037-4263ce751a9c)
+
+![Screenshot 2024-12-21 110036](https://github.com/user-attachments/assets/9a833c89-a178-46c3-84c1-8146f8b8618a)
+
 
 
 # RESULT:
